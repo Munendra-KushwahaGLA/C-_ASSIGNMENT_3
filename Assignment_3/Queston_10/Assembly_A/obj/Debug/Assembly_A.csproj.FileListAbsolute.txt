@@ -1,0 +1,8 @@
+C:\Users\kushw\source\repos\Assignment_3\Queston_10\Assembly_A\bin\Debug\Assembly_A.exe.config
+C:\Users\kushw\source\repos\Assignment_3\Queston_10\Assembly_A\bin\Debug\Assembly_A.exe
+C:\Users\kushw\source\repos\Assignment_3\Queston_10\Assembly_A\bin\Debug\Assembly_A.pdb
+C:\Users\kushw\source\repos\Assignment_3\Queston_10\Assembly_A\obj\Debug\Assembly_A.csproj.AssemblyReference.cache
+C:\Users\kushw\source\repos\Assignment_3\Queston_10\Assembly_A\obj\Debug\Assembly_A.csproj.SuggestedBindingRedirects.cache
+C:\Users\kushw\source\repos\Assignment_3\Queston_10\Assembly_A\obj\Debug\Assembly_A.csproj.CoreCompileInputs.cache
+C:\Users\kushw\source\repos\Assignment_3\Queston_10\Assembly_A\obj\Debug\Assembly_A.exe
+C:\Users\kushw\source\repos\Assignment_3\Queston_10\Assembly_A\obj\Debug\Assembly_A.pdb

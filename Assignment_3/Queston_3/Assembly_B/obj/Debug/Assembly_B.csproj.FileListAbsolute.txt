@@ -1,0 +1,12 @@
+C:\Users\kushw\source\repos\Assignment_3\Queston_3\Assembly_B\obj\Debug\Assembly_B.csproj.AssemblyReference.cache
+C:\Users\kushw\source\repos\Assignment_3\Queston_3\Assembly_B\obj\Debug\Assembly_B.csproj.SuggestedBindingRedirects.cache
+C:\Users\kushw\source\repos\Assignment_3\Queston_3\Assembly_B\obj\Debug\Assembly_B.csproj.CoreCompileInputs.cache
+C:\Users\kushw\source\repos\Assignment_3\Queston_3\Assembly_B\bin\Debug\Assembly_B.exe.config
+C:\Users\kushw\source\repos\Assignment_3\Queston_3\Assembly_B\bin\Debug\Assembly_B.exe
+C:\Users\kushw\source\repos\Assignment_3\Queston_3\Assembly_B\bin\Debug\Assembly_B.pdb
+C:\Users\kushw\source\repos\Assignment_3\Queston_3\Assembly_B\bin\Debug\Assembly_A.exe
+C:\Users\kushw\source\repos\Assignment_3\Queston_3\Assembly_B\bin\Debug\Assembly_A.pdb
+C:\Users\kushw\source\repos\Assignment_3\Queston_3\Assembly_B\bin\Debug\Assembly_A.exe.config
+C:\Users\kushw\source\repos\Assignment_3\Queston_3\Assembly_B\obj\Debug\Assembly_B.csproj.CopyComplete
+C:\Users\kushw\source\repos\Assignment_3\Queston_3\Assembly_B\obj\Debug\Assembly_B.exe
+C:\Users\kushw\source\repos\Assignment_3\Queston_3\Assembly_B\obj\Debug\Assembly_B.pdb
